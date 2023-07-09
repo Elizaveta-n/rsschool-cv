@@ -2,7 +2,7 @@
 # 19 y.o.
 # Phone: +375447119862
 ## email: elizavetaosmol.mail.ru
-## Education: BSEU
+## Education: BSEU, Minsk
 #### Location: Minsk, Belarus
 ##### English: intermediate
 ###### Deutsch: A2
